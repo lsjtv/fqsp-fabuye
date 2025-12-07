@@ -46,4 +46,4 @@ fqsp.cc
 
 ----------
 
-Last Update: 2025-12-08 | Status: Active
+上次更新: 2025-12-08 | 状态: 活跃
